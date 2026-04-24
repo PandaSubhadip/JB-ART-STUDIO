@@ -332,6 +332,7 @@ svg {
     height: 100vh;
     width: 100vw;
     background-color:  #111214;
+    color: #ffff;
 
 }
 .main-text h5{
@@ -908,7 +909,7 @@ letter-spacing: 0%;
    }
    .test-description svg{
     position: absolute;
-        top: 35%;
+        top: 25%;
    }
 
    /* =================Marqueee item start================= */
